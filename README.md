@@ -22,9 +22,9 @@
 - OS & Tools: Ubuntu, Linux  
 
 ### 📧 **Get in Touch**
-- Email: **[3bthakuri.np@gmail.com](mailto:3bthakuri.np@gmail.com)**  
+- Email: **[ 3B*******@gmail.com ](mailto:3bthakuri@gmail.com)**  
 - LinkedIn: **[3B Thakuri](https://linkedin.com/in/3bthakuri)**  
-- Instagram: **[@3bthakuri](https://instagram.com/3bthakuri)**  
+- Instagram: **[3bthakuri](https://instagram.com/3bthakuri)**  
 
 ### ⚡ **Fun Fact**
 - _I love coffee ☕, playing chess ♟️, and solving coding challenges._
