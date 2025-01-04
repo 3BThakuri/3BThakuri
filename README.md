@@ -21,8 +21,7 @@
 - Databases: SQL, PL/SQL  
 - OS & Tools: Ubuntu, Linux  
 
-### 📧 **Get in Touch**
-- Email: **[ 3B*******@gmail.com ](mailto:3bthakuri@gmail.com)**  
+### 📧 **Get in Touch**  
 - LinkedIn: **[3B Thakuri](https://linkedin.com/in/3bthakuri)**  
 - Instagram: **[3bthakuri](https://instagram.com/3bthakuri)**  
 
