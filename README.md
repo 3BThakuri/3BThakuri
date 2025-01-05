@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hey There! I'm 3B Thakuri</h1>
-<h3 align="center">Cyber Security Enthusiast | Developer | Coffee Lover</h3>
+<h3 align="center">Cyber Security Enthusiast | Developer | Attitude to Deep Dive | Never Give Up</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bipan101&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3bthakuri&label=Profile%20views&color=0e75b6&style=flat" alt="3bthakuri" /> 
 </p>
 
 <p align="center">
