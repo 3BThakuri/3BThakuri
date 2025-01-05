@@ -28,9 +28,9 @@
 
 ---
 
-<h2 align="left">🌐 Connect with Me</h2>
+<h2 align="left">🌐 Connect with Me</h2> 
 <p align="left">
-   <a href="https://youtube.com/3bthakuri" target="_blank">
+   <a href="https://www.youtube.com/@3BThakuri" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yt" height="30" width="40"/>
      </a>    
 
@@ -39,7 +39,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Inst" height="30" width="40"/>
       </a>
   <a href="https://linkedin.com/in/3bthakuri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40"/>
      </a>
 </p>
 
