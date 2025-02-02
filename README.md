@@ -23,6 +23,26 @@
 - LinkedIn: **[3B Thakuri](https://linkedin.com/in/3bthakuri)**  
 - Instagram: **[3bthakuri](https://instagram.com/3bthakuri)**  
 
+
+
+---
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=3BThakuri&theme=radical&hide_border=true)  
+
+
+---
+### 📈 GitHub Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3BThakuri&show_icons=true&theme=tokyonight)
+---
+### 💻 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3BThakuri&layout=compact&theme=radical&hide_border=true)  
+
+
+
+
+---
+
 ### ⚡ **Fun Fact**
 - _I love coffee ☕, playing chess ♟️, and solving coding challenges._
 
@@ -44,6 +64,9 @@
 </p>
 
 ---
+
+
+
 
 <h2 align="left">🛠️ Tools & Technologies</h2>
 <p align="left">
