@@ -32,9 +32,9 @@
 
 
 
-### 📈 GitHub Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3BThakuri&show_icons=true&theme=tokyonight)
----
+//### 📈 GitHub Stats 
+//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3BThakuri&show_icons=true&theme=tokyonight)
+--- 
 ### 💻 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3BThakuri&layout=compact&theme=radical&hide_border=true)  
 
